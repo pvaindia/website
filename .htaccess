@@ -10,5 +10,4 @@ RewriteCond %{ENV:HTTPS} !=on
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 </IfModule>
 RewriteCond %{HTTP_HOST} ^pvaindia.github.io/website [NC]
-RewriteRule ^(.*)$ http://pvaindia.github.io/website/$1 [L,R=301,NC]
-
+RewriteRule ^(.*)$ http://pvaindia.github.io/website/$1 [L,R=301,NC] 
