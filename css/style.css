@@ -1721,7 +1721,7 @@ input:focus {
 }
 
 .brand .text-texture {
-    background-image: linear-gradient(to bottom, #ff7c00, #ff0000);
+    background-image: linear-gradient(to bottom, #ff7c00, #010fb8);
     display: inline-block;
     vertical-align: middle;
     width: 4.75rem;
@@ -5369,7 +5369,7 @@ a.minimal-item:hover {
 
 .h1-flash {
     margin-bottom: 7.40740741vmin;
-    background: linear-gradient(to bottom, #ff7c00, #ff0000);
+    background: linear-gradient(to bottom, #ff7c00, #010fb8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 9.25925926vmin;
@@ -5489,7 +5489,7 @@ a.minimal-item:hover {
     text-align: center;
     line-height: 4.75rem;
     font-size: 2.375rem;
-    color: #ff0000;
+    color: #010fb8;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
@@ -7859,8 +7859,8 @@ a.phone-link {
 .theme-orange .btn-primary:not(:disabled):not(.disabled).active,
 .theme-orange .btn-primary:not(:disabled):not(.disabled):active,
 .theme-orange .show>.btn-primary.dropdown-toggle {
-    background-color: #ff0000;
-    border-color: #ff0000;
+    background-color: #010fb8;
+    border-color: #010fb8;
 }
 
 .theme-orange .social-rounded a:hover,
