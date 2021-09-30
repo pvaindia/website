@@ -1,6 +1,5 @@
-DirectoryIndex index.html
-ErrorDocument 404 404.html
 RewriteEngine On
+ErrorDocument 404 404.html
 <IfModule mod_rewrite.c>
 RewriteBase /
 RewriteRule ^index\.html$ - [L]
