@@ -5401,7 +5401,7 @@ a.minimal-item:hover {
 .rounded-logo-scroll svg {
     letter-spacing: 9px;
     word-spacing: 0;
-    fill: #666699;
+    fill: #017afe;
 }
 
 .scroll-icon {
@@ -5688,7 +5688,7 @@ a.minimal-item:hover {
     display: block;
     width: 1rem;
     height: .25rem;
-    background: #666699;
+    background: #017afe;
     position: absolute;
     left: 0;
     bottom: .375rem;
@@ -6073,7 +6073,7 @@ a:hover .project-metro-photo img {
 
 .footer-content-flash .contact-item a:not(.phone-link):hover,
 .footer-content-flash .footer-nav a:hover {
-    color: #666699;
+    color: #017afe;
     text-decoration: none;
 }
 
