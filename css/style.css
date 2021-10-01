@@ -5188,8 +5188,7 @@ a.minimal-item:hover {
 
 .home-flash-dark .flash-item-nav a,
 .home-flash.dark-horizontal .flash-item-nav a {
-    color: #017afe !important;
-}
+    color:#017afe !important;
 
 .home-flash-dark .flash-item-nav a:hover,
 .home-flash.dark-horizontal .flash-item-nav a:hover,
