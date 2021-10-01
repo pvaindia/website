@@ -1,5 +1,3 @@
-#nothing
-DirectoryIndex index.html
 ErrorDocument 404 404.html
 RewriteEngine On
 <IfModule mod_rewrite.c>
@@ -11,5 +9,5 @@ RewriteRule . /index.html [L]
 RewriteCond %{ENV:HTTPS} !=on
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 </IfModule>
-RewriteCond %{HTTP_HOST} ^pvaindia.github.io/website [NC]
-RewriteRule ^(.*)$ http://pvaindia.github.io/website/$1 [L,R=301,NC] 
+RewriteCond %{HTTP_HOST} ^pvaindia.com [NC]
+RewriteRule ^(.*)$ https://pvaindia.com/$1 [L,R=301,NC] 
