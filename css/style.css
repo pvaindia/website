@@ -97,7 +97,7 @@ html {
 }
 
 body {
-    font-family: 'Karla', sans-serif;
+    font-family: 'Gill Sans MT', sans-serif;
     color: #000000;
 }
 
@@ -325,7 +325,7 @@ html>body .fs60 {
 }
 
 .font-libre {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'AlphaCentauri', sans-serif;                                                
 }
 
 .font-abril {
@@ -6743,7 +6743,7 @@ a.page-link:hover {
 .article-content .h4 {
     margin-top: 3.75rem;
     margin-bottom: 2rem;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'AlphaCentauri', sans-serif;                                            
     letter-spacing: 0;
 }
 
@@ -6756,7 +6756,7 @@ a.page-link:hover {
     margin-bottom: 50px;
     font-size: 1.5rem;
     color: #999999;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'AlphaCentauri', sans-serif;                                             
     font-style: italic;
     line-height: 1.5;
     letter-spacing: -.01em;
@@ -6767,7 +6767,7 @@ a.page-link:hover {
     margin-bottom: -1rem;
     margin-right: 1rem;
     font-size: 3.75rem;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'AlphaCentauri', sans-serif;
     line-height: 1.275;
 }
 
@@ -7218,7 +7218,7 @@ a.page-link:hover {
     display: block;
     margin-bottom: .5rem;
     font-size: 3rem;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'AlphaCentauri', sans-serif;
     color: #000000;
     line-height: 1;
 }
@@ -7272,7 +7272,7 @@ a.page-link:hover {
 .stage-item-num {
     margin-bottom: 2rem;
     font-size: 2.25rem;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'AlphaCentauri', sans-serif;
     font-weight: bold;
 }
 
@@ -7321,7 +7321,7 @@ a.page-link:hover {
 .member-item-name {
     margin-bottom: .25rem;
     font-size: 1.5rem;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'AlphaCentauri', sans-serif;
     font-weight: bold;
 }
 
@@ -7366,7 +7366,7 @@ a.page-link:hover {
     margin-top: 1.5rem;
     font-size: 1.875rem;
     line-height: 1.53333333;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'AlphaCentauri', sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     color: #000000;
