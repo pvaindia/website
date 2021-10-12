@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "pvaindia",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "pvaindia",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
