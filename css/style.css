@@ -1973,7 +1973,7 @@ body.menu-open {
         padding: 2rem 2rem;
     }
     .cnav .logo-holder img {
-        width: 2.2em;
+        width: 5em;
     }
     .cr-btn {
         font-size: 1.3rem;
@@ -2204,10 +2204,10 @@ body.menu-open {
         text-align: left;
     }
     .cnav {
-        padding: 4rem 3.5rem;
+        padding: 2rem 1.5rem;
     }
     .cnav .logo-holder img {
-        width: 4rem;
+        width: 3.5rem;
     }
     .cnav .social-media {
         display: none;
